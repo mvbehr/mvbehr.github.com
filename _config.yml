@@ -1,0 +1,32 @@
+theme: jekyll-theme-cayman
+title: "Moritz Behr - CTO and Remote Tech Leader"
+description: "Chief Technology Officer and Software Architect with 15+ years experience seeking mission-driven remote position in AgriTech, GreenTech, or CleanTech"
+
+author: Moritz Behr
+lang: en
+keywords:
+  - CTO
+  - Chief Software Architect
+  - Ruby on Rails
+  - Remote Work
+  - FinTech
+  - AgriTech
+  - GreenTech
+  - CleanTech
+  - Work from Anywhere
+  - Switzerland Jobs
+  - Denmark Jobs
+
+person:
+  name: Moritz Behr
+  jobTitle: CTO and Chief Software Architect
+  email: moritz@behr.studio
+  location: France
+  availability: Available in 1-2 months
+  experience_years: 15
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+show_downloads: false
